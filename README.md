@@ -37,6 +37,8 @@
 ## 使用方式
 
 - 网页版：直接双击 `index.html`，或部署到作品集静态托管。
+- 线上报告：https://3f8d57f43b02465a8b03b17e75ee6aab.gz2.agentos-app.net
+- 作品集主页：https://5e46f082c3bb4b4781e687dc53d8bd82.bj9.agentos-app.net
 - PDF：`docs/六大行客户经营分析报告.pdf`，适合面试留档。
 - PPT：`assets/六大行客户经营分析汇报.pptx`，适合面试讲解。
 - SQL：按 `sql/README.md` 用本机 SQLite 重新生成和查询。
